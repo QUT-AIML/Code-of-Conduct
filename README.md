@@ -82,7 +82,7 @@ The hackathon will take place at QUT Gardens Point, in P Block. Public transport
 
 Yes. This is an in-person event. Participants must attend:
 - Opening ceremonies and team formation on the first night
-- Attendance on the second day in the working room Forum P419 (exact timing will be announced later), where industry mentors will meet with groups to provide guidance and direction
+- Attendance on the second day in the working room Forum P419, where industry mentors will meet with groups to provide guidance and direction
 - Final team check-in on the last day
 - Final project presentations, exhibitions, and the awards ceremony
 
