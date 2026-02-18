@@ -2,7 +2,7 @@
 
 To ensure fairness, safety, and a positive experience for everyone, all participants are expected to follow these rules. 
 
-## 1. Participation Rules
+## 1. Core Rules
 - Projects must be created **during the hackathon period**, beginning with team formation on Friday and concluding with final submissions on Sunday.
 - Teams should aim to deliver a **working prototype or demonstrable outcome**.
 - Participants must **follow venue rules and organiser instructions at all times**.
