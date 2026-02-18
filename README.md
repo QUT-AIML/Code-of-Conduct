@@ -1,6 +1,6 @@
 # AIML Hackathon 2026 – Rules & Participation Guidelines
 
-To ensure fairness, safety, and a positive experience for everyone, all participants are expected to follow these rules. Hackathons involve a mix of skills including design, planning, problem-solving, and communication—coding is recommended but not essential.
+To ensure fairness, safety, and a positive experience for everyone, all participants are expected to follow these rules. 
 
 ## 1. Participation Rules
 - Projects must be created **during the hackathon period**, beginning with team formation on Friday and concluding with final submissions on Sunday.
