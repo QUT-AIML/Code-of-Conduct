@@ -43,7 +43,7 @@ All members are expected to comply with requests to stop any harassing behavior 
 If a member engages in harassing or inappropriate behavior, the Executive Committee may take any action deemed necessary, including but not limited to:
 - Issuing a formal warning
 - Temporarily suspending community access
-- Permanently removing the individual from the society
+- Revoking participant AIML membership 
 - Referring the matter to QUT authorities or law enforcement (if applicable)
 
 If you are being harassed, witness harassment, or have any other concerns, please reach out to a member of the Executive Committee immediately. Contact information is available via our official channels.
