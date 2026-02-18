@@ -1,147 +1,103 @@
-# AIML Hackathon 2026 – Rules & Participation Guidelines
+# QUT AI & ML Society Code of Conduct
+The QUT AI & ML Society is committed to creating a welcoming, respectful, and inclusive community for all members. We are dedicated to fostering an environment where everyone, regardless of background or experience, can collaborate, learn, and grow.
 
-To ensure fairness, safety, and a positive experience for everyone, all participants are expected to follow these rules. 
+By participating in our society, you agree to abide by the following Code of Conduct.
 
-## 1. Participation Rules
-- Projects must be created **during the hackathon period**, beginning with team formation on Friday and concluding with final submissions on Sunday.
-- Teams should aim to deliver a **working prototype or demonstrable outcome**.
-- Participants must **follow venue rules and organiser instructions at all times**.
-- All participants are expected to follow a respectful and professional code of conduct. The full AIML Hackathon Code of Conduct can be found here: [https://github.com/QUT-AIML/Code-of-Conduct](https://github.com/QUT-AIML/Code-of-Conduct)
+Community members who violate these standards may be subject to disciplinary action—including warnings, temporary removal, or permanent expulsion from the community—at the discretion of the Executive Committee.
 
-## 2. Attendance & Venue
-- Participants must attend the following sessions:
-  - Opening ceremony and keynote
-  - Team formation
-  - Mentor check-ins (Forum P419, time TBC)
-  - Final check-in
-  - Final pitches, exhibitions, and awards
-- Teams are **expected and required to work in the designated space (Forum P419) on the second day during mentor check-ins**, so mentors can meet, guide, and support all groups effectively.
-- All participants must **leave the venue by 9:00 pm** each night.
+<br/>
 
-## 3. Executive & Staff Conduct
-- Members of the AIML Admin Team (President, Vice President, Secretary, Treasurer) **cannot participate** in the hackathon.
-- AIML executives participating in the event **cannot wear executive uniforms or identifiers**
-- Executives must hold a **valid Hackathon ticket** to participate and access provided food.
+---
 
-## 4. Safety & Compliance
-- Follow all **QUT emergency procedures** and organiser instructions.
-- Report any **accidents, safety incidents, or illness to the AIML executive team immediately**.
-- Stay home if unwell.
-- Projects must not contain **offensive, discriminatory, political, or religious content**.
+<br/>
 
-## 5. Project & Submission
-- All teams must **submit projects on GitHub** with a functioning codebase.
-- Bringing in existing projects is **strictly prohibited**, even if heavily modified.
-- Teams should deliver a **working prototype or demonstrable outcome**.
+# Harassment-Free Environment
+We do not tolerate harassment or discrimination in any form. Harassment includes, but is not limited to:
 
-## 6. Behaviour & Conduct
-- Participants must follow **venue rules and organiser instructions at all times**.
-- Executives and organisers must avoid any **perception of preferential treatment or authority misuse**.
+- Offensive comments related to:
+  - Gender (including identity, history, or expression)
+  - Sexual orientation
+  - Disability
+  - Physical appearance
+  - Race or ethnicity
+  - Religion
+  - Academic background or programming experience
+- Sexual images, language, or jokes in public or shared spaces
+- Deliberate intimidation, stalking, or following
+- Harassing photography or recording
+- Sustained disruption of talks, events, or online discussions
+- Unwelcome physical contact or sexual attention
+- Threats or incitement to violence or self-harm
+- Breaches of digital privacy or sharing personal information without consent
 
-## 7. Photography & Media
-- Event photography and videography will occur throughout the hackathon for **marketing and documentation purposes**.
-- Participants consent to photos/videos being used for future promotion of AIML events.
+All members are expected to comply with requests to stop any harassing behavior immediately.
 
-## 8. Governance
-- The hackathon is an **exclusive AIML initiative**; no other student clubs are involved.
+<br/>
 
+---
 
-<br>
+<br/>
 
-# AIML Hackathon 2026 – FAQs
+# Enforcement
 
-## Is there a theme for this hackathon?
+If a member engages in harassing or inappropriate behavior, the Executive Committee may take any action deemed necessary, including but not limited to:
+- Issuing a formal warning
+- Temporarily suspending community access
+- Permanently removing the individual from the society
+- Referring the matter to QUT authorities or law enforcement (if applicable)
 
-There is no set theme. Teams are free to build almost anything they like, provided projects remain appropriate for a respectful environment. Projects must not include:
-* NSFW or offensive content
-* Discriminatory material
-* Political or religious topics (domestic or international)
-* Anything deemed inappropriate by the organisers
-  
-
-## How big can teams be?
-
-Teams must have a minimum of 3 members and a maximum of 5 members.
+If you are being harassed, witness harassment, or have any other concerns, please reach out to a member of the Executive Committee immediately. Contact information is available via our official channels.
 
 
-## Do I need to be in a team before the event?
+<br/>
 
-No. You can register individually. Team formation will take place on the first night, where you can meet others and form a group.
+---
+
+<br/>
+
+# Community Conduct Online & Offline
+
+This Code of Conduct applies across all QUT AI & ML Society-managed platforms and events, including but not limited to:
+- Discord, Facebook, Instagram, GitHub, LinkedIn, and other digital platforms
+- Events hosted, co-hosted, or officially affiliated with the society (e.g., meetups, workshops, hackathons)
+
+<br/>
+
+---
+
+<br/>
+
+# Advertising & Promotions
+
+Unsolicited advertising is prohibited on QUT AI & ML Society platforms unless explicit permission has been granted by the Executive Committee. Posts violating this rule will be removed, and repeated offenses may result in disciplinary action.
 
 
-## Do I need to be a QUT or university student to participate?
+<br/>
 
-Students from other universities are welcome to come to the Hackathon and participate in the event. However, all participants must be current students which is verified through their student IDs. This will be checked by upon event arrival.
+---
+
+<br/>
+
+# University Policies
+
+All participants are expected to adhere to the QUT Student Code of Conduct and related university policies on integrity, equity, and inclusion.
 
 
-## Where is the event held?
+<br/>
 
-The hackathon will take place at QUT Gardens Point, in P Block. Public transport is recommended, and limited weekend parking is available nearby.
+---
 
-## Do I need to attend in person?
+<br/><br/>
 
-Yes. This is an in-person event. Participants must attend:
-- Opening ceremonies and team formation on the first night
-- Attendance on the second day in the working room Forum P419, where industry mentors will meet with groups to provide guidance and direction
-- Final team check-in on the last day
-- Final project presentations, exhibitions, and the awards ceremony
+If you have questions or concerns about this Code of Conduct, please contact the Executive Committee at hello@qutams.com
 
-## Can I continue working on an existing project?
 
-No. All teams must start a brand new project during the hackathon and build it from the ground up over the weekend.
 
-## What are the prizes?
 
-The total prize pool is $2000.
 
-* $1000 will be awarded to the Best Performing Team
-* $500 will be awarded to the Runner-Up Team
-* Several commendation awards with gift cards will recognise standout teams across additional categories
 
-## Will food be provided?
 
-Yes. Meals and refreshments will be provided throughout the event, including lunch and dinner on the main days. Dietary requirements of participants is specified during registration.
 
-## What should I bring?
 
-Please bring:
 
-* Your laptop
-* Charger
-* Any accessories or equipment you need for development
 
-## Can I stay at the venue overnight?
-
-No. The venue will close at approximately 9:00 pm each night, and all participants must leave at closing time.
-
-## Can I showcase my project after the event?
-
-Yes. You are encouraged to share your project on GitHub, your portfolio, or LinkedIn after the event.
-
-## Do I need to know how to code?
-
-No. Hackathons involve a mix of skills including design, planning, problem-solving, and communication. Beginners are welcome. It is recommended, but not essential, to have some coding knowledge if you want to contribute to technical aspects of a project.
-
-## Do I need to know Git?
-
-A basic understanding of Git is recommended, but not required.
-
-## What if I don’t have a project idea?
-
-That’s completely fine. The first night includes time to meet others, hear ideas, and join a team based on your interests.
-
-## Do I need to provide my code to organisers?
-
-Yes. All teams must:
-
-* Host their project on a shared GitHub repository
-* Provide the repository link to organisers for judging and verification
-
-## I still have questions. Who can I contact?
-
-You can reach out via:
-
-* Email: [qut-aiml@outlook.com](mailto:qut-aiml@outlook.com)
-* The AIML Discord server (linked on social media)
-
-A member of the team will be happy to help.
