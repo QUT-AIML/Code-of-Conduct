@@ -14,7 +14,7 @@ To ensure fairness, safety, and a positive experience for everyone, all particip
   - Saturday 11/4 - Mentor check-ins (Forum P419, time TBC)
   - Sunday 12/4 - Final check-in
   - Sunday 12/4 - Final pitches, exhibitions, and awards
-- For groups that have formed prior to the Hackathon, at minimum three team members must be present for opening ceremony. Registration will be checked at the door.
+- For groups that have formed prior to the Hackathon, at minimum three team members **must be present** for opening ceremony. Registration will be checked at the door.
 - Teams are **expected and required to work in the designated space (Forum P419) on the second day during mentor check-ins**, so mentors can meet, guide, and support all groups effectively. 
 - All participants must **leave the venue by 9:00 pm** each night.
 
