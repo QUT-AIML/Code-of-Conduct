@@ -16,7 +16,7 @@ To ensure fairness, safety, and a positive experience for everyone, all particip
   - Sunday 12/4 - Final pitches, exhibitions, and awards
 - For groups that have formed prior to the Hackathon, at minimum three team members **must be present** for opening ceremony. Registration will be checked at the door.
 - Teams are **expected and required to be present in the  Forum P419 on the second day for their mentor check-ins**, so mentors can meet, guide, and support all groups effectively. While awaiting your team check-in, it is strongly recommended your team is in the Forum at one of the available tables. After the check in, participants are free to work in other spaces.
-- All participants must **leave the venue by 9:00 pm** each night.
+- All participants must **leave the venue (P block) by 9:00 pm** each night.
 
 ## Executive & Staff Conduct
 - Members of the AIML Admin Team (President, Vice President, Secretary, Treasurer) **cannot participate** in the hackathon.
