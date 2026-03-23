@@ -2,13 +2,13 @@
 
 To ensure fairness, safety, and a positive experience for everyone, all participants are expected to follow these rules. 
 
-## 1. Core Rules
+## Core Rules
 - Projects must be created **during the hackathon period**, beginning with team formation on Friday and concluding with final submissions on Sunday.
 - Teams should aim to deliver a **working prototype or demonstrable outcome**.
 - Participants must **follow venue rules and organiser instructions at all times**.
 - All participants are expected to follow a respectful and professional code of conduct. The full AIML Hackathon Code of Conduct can be found here: [https://github.com/QUT-AIML/Code-of-Conduct](https://github.com/QUT-AIML/Code-of-Conduct)
 
-## 2. Attendance & Venue
+## Attendance & Venue
 - Participants must attend the following sessions:
   - Friday 10/4 - Opening ceremony and keynote
   - Saturday 11/4 - Mentor check-ins (Forum P419, time TBC)
@@ -18,37 +18,33 @@ To ensure fairness, safety, and a positive experience for everyone, all particip
 - Teams are **expected and required to work in the designated space (Forum P419) on the second day during mentor check-ins**, so mentors can meet, guide, and support all groups effectively. 
 - All participants must **leave the venue by 9:00 pm** each night.
 
-## 3. Executive & Staff Conduct
+## Executive & Staff Conduct
 - Members of the AIML Admin Team (President, Vice President, Secretary, Treasurer) **cannot participate** in the hackathon.
 - AIML executives participating in the event **cannot wear executive uniforms or identifiers**
 - Executives must hold a **valid Hackathon ticket** to participate and access provided food.
 
-## 4. Safety & Compliance
+## Safety & Compliance
 - Follow all **QUT emergency procedures** and organiser instructions.
 - Report any **accidents, safety incidents, or illness to the AIML executive team immediately**.
 - Stay home if unwell.
 - Projects must not contain **offensive, discriminatory, political, or religious content**.
 
-## 5. Project & Submission
+## Project & Submission
 - All teams must **submit projects on GitHub** with a functioning codebase.
 - Bringing in existing projects is **strictly prohibited**, even if heavily modified.
 - Teams should deliver a **working prototype or demonstrable outcome**.
 
-## 6. Behaviour & Conduct
+## Behaviour & Conduct
 - Participants must follow **venue rules and organiser instructions at all times**.
 - Executives and organisers must avoid any **perception of preferential treatment or authority misuse**.
 
-## 7. Photography & Media
+## Photography & Media
 - Event photography and videography will occur throughout the hackathon for **marketing and documentation purposes**.
 - Participants consent to photos/videos being used for future promotion of AIML events.
 
-## 8. Governance
+## Governance
 - The hackathon is an **exclusive AIML initiative**; no other student clubs are involved.
 
-
-<br>
-
-# AIML Hackathon 2026 – FAQs
 
 ## Is there a theme for this hackathon?
 
