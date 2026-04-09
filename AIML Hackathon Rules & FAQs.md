@@ -22,7 +22,7 @@ To ensure fairness, safety, and a positive experience for everyone, all particip
 ## Executive & Staff Conduct
 - Members of the AIML Admin Team (President, Vice President, Secretary, Treasurer) **cannot participate** in the hackathon.
 - AIML executives participating in the event **cannot wear executive uniforms or identifiers**
-- Executives must hold a **valid Hackathon ticket** to participate and access provided food.
+- Executives must hold a **valid Hackathon ticket** to participate in the competition.
 
 ## Safety & Compliance
 - Follow all **QUT emergency procedures** and organiser instructions.
